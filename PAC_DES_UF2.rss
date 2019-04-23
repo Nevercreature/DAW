@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Pixels Pixels y mas Pixels</title>
+    <link>https://pixelspixelsymaspixels.photo.blog</link>
+    <description>Informacion sobre el apasionante mundo del Pixel Art en castellano</description>
+		<item>
+			<title>Dithering Que es</title>
+			<link>https://pixelspixelsymaspixels.photo.blog/2019/04/22/primera-entrada-del-blog/</link>
+			<description>No sabes que es el Dithering en Pixel Art Yo te lo cuento.</description>
+		</item>
+		<item>
+			<title>Antialiasing Que es</title>
+			<link>https://pixelspixelsymaspixels.photo.blog/2019/04/22/antialiasing-que-es/</link>
+			<description>No sabes que es el Antialiasing en Pixel Art Yo te lo cuento.</description>
+		</item>
+		<item>
+			<title>Paletas de colores</title>
+			<link>https://pixelspixelsymaspixels.photo.blog/2019/04/22/paletas-de-colores/</link>
+			<description>Las paletas de colores son algo muy importante en el Pixel Art.</description>
+		</item>
+		<item>
+			<title>Animaciones</title>
+			<link>https://pixelspixelsymaspixels.photo.blog/2019/04/22/animaciones/</link>
+			<description>Animate. Un dibujo pixel art siempre es mejor animado.</description>
+		</item>
+		<item>
+			<title>Maquetas o "mockups"</title>
+			<link>https://pixelspixelsymaspixels.photo.blog/2019/04/22/maquetas-o-mockups/</link>
+			<description>Las maquetas no solo se hacen con carton, madera y pegamento...</description>
+		</item>
+</channel>
+</rss> 
+
